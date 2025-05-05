@@ -7,9 +7,10 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Welcome To Central Of Web3
+Here you can access the latest changes to any script or any of our launched programs.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+
 
 </header>
 
@@ -19,25 +20,21 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   and tell the learner why they should take the course.
 -->
 
-## Welcome
+## **Empowering Your Digital Future**
 
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
+At **CW3**, we specialize in developing innovative web3 solutions and providing smart AI applications across all platforms, ensuring a seamless digital experience for our clients.
 
-- **Who is this for**: Beginners, students, project maintainers, small businesses.
-- **What you'll learn**: How to build a GitHub Pages site.
-- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
-- **How long**: This course takes less than one hour to complete.
+**Innovative Web3 Solutions**
 
-In this course, you will:
+Explore our diverse services in web3 development, AI applications, and blockchain technology for all platforms.
 
-1. Enable GitHub Pages
-2. Configure your site
-3. Customize your home page
-4. Create a blog post
-5. Merge your pull request
 
-### How to start this course
+**Contact**
+ 
+ **Email** : info@centralweb3.io
+
+ **Tel:** +1(818)732-0358
+
 
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
@@ -50,26 +47,14 @@ In this course, you will:
 }).toString()
 -->
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=github-pages&owner=%40me&name=skills-github-pages&description=My+clone+repository&visibility=public)
+<footer/>
+  
+https://centralweb3.io
 
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
-
-<footer>
 
 <!--
   <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+  Add a link to get support, GitHub status page, code of conduct, license
 
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+----
 </footer>
